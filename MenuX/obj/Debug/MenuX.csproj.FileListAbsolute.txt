@@ -1,0 +1,14 @@
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\bin\Debug\MenuX.exe.config
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\bin\Debug\MenuX.exe
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\bin\Debug\MenuX.pdb
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.csproj.AssemblyReference.cache
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Consult.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Delete.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Menusx.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Properties.Resources.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Register.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.Update.resources
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.csproj.GenerateResource.cache
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.exe
+C:\Users\gustavo.lsantos25\source\repos\MenuX\MenuX\obj\Debug\MenuX.pdb
